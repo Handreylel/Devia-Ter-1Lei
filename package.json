@@ -1,0 +1,26 @@
+{
+  "name": "devia-ter-1lei",
+  "version": "1.0.0",
+  "description": "Repositório para Projeto Pessoal.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Handreylel/Devia-Ter-1Lei.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Handreylel/Devia-Ter-1Lei/issues"
+  },
+  "homepage": "https://github.com/Handreylel/Devia-Ter-1Lei#readme",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
